@@ -1,0 +1,22 @@
+{
+  "name": "Pod_test",
+  "version": "0.1.0",
+  "summary": "A short description of Pod_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/romeo/Pod_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "romeo": "138119125@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/romeo/Pod_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod_test/Classes/**/*"
+}
